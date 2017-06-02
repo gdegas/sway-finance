@@ -1,0 +1,13 @@
+body {
+  background-image: url(https://www.swayfinance.com/images/bigbackground.png);
+}
+
+div.header {
+  margin-top: 45px;
+  margin-left: 165px;
+  width: 154px;
+}
+
+img {
+  width: 100%;
+}
