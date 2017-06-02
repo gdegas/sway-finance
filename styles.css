@@ -1,13 +1,31 @@
 body {
   background-image: url(https://www.swayfinance.com/images/bigbackground.png);
+  box-sizing: border-box;
 }
 
-div.header {
-  margin-top: 45px;
-  margin-left: 165px;
-  width: 154px;
+.page {
+  width: 940px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+.navlinks {
+  width: 160px;
+  font-size: 15px;
+  font-weight: 300;
+  text-align: right;
+  float: right;
 }
 
 img {
-  width: 100%;
+  width: 154px;
+}
+
+a {
+  color: #728993;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  padding: 10px;
 }
