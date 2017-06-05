@@ -21,7 +21,7 @@ body {
   float: right;
 }
 
-img {
+.page > img {
   width: 154px;
 }
 
