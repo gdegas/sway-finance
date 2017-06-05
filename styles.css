@@ -8,6 +8,7 @@ body {
   margin-right: auto;
   margin-left: auto;
   margin-top: 50px;
+  height: 1122px;
 }
 
 .navlinks {
@@ -28,4 +29,31 @@ a {
   margin-right: auto;
   margin-top: 10px;
   padding: 10px;
+}
+
+header {
+  font-size: 37px;
+  margin-bottom: 8px;
+  padding-top: 128px;
+}
+
+.descriptionbox {
+  color: white;
+  font-family: 'Roboto', Arial;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+.description {
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.screenshotdiv {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.screenshot {
+  width: 100%;
 }
