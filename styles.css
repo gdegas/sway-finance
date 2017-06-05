@@ -1,6 +1,8 @@
 body {
   background-image: url(https://www.swayfinance.com/images/bigbackground.png);
   box-sizing: border-box;
+  background-position: center;
+  background-size: cover;
 }
 
 .page {
@@ -19,7 +21,7 @@ body {
   float: right;
 }
 
-img {
+.page > img {
   width: 154px;
 }
 
@@ -47,4 +49,13 @@ header {
 .description {
   font-size: 16px;
   letter-spacing: 1px;
+}
+
+.screenshotdiv {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.screenshot {
+  width: 100%;
 }
