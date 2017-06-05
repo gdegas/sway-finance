@@ -1,6 +1,8 @@
 body {
   background-image: url(https://www.swayfinance.com/images/bigbackground.png);
   box-sizing: border-box;
+  background-position: center;
+  background-size: cover;
 }
 
 .page {
